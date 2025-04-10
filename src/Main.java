@@ -4,9 +4,8 @@ import java.sql.SQLOutput;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hallo Welt");
-        //Hallo
-        System.out.println("123456");
-        System.out.println("Johan Leck Eier und Auch anderes");
+        System.out.println("Hallo Welt") ;
+        System.out.println("123456") ;
+        System.out.println("Johan Leck Eier und Auch anderes") ;
     }
 }
